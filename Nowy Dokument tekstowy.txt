@@ -5,3 +5,5 @@ ESESSESES
 DZIEŃ DOBRY
 
 Dominik Strachowski 
+
+Visual Studio - test
