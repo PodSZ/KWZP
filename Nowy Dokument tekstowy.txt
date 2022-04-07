@@ -13,3 +13,4 @@ Dominik Strachowski
 Visual Studio - test
 
 Nowy branch 
+hej
